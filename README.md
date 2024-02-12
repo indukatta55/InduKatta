@@ -9,7 +9,6 @@ NoSQL databases are often described as highly performant, efficient, and scalabl
 - **Document Database:** Storing data as documents, akin to key-value databases but with structured documents containing many key-value pairs, resembling JSON or XML.
 - **Graph Database:** A fascinating extension of document databases, emphasizing relationships through nodes, properties, and edges.
 - **Columnar Database:** Efficiently storing data in columns, these databases optimize data reading and query speed.
-NoSQL databases offer diverse options beyond traditional systems, providing tailored solutions for various data storage needs.
 #### ![DM](https://media.geeksforgeeks.org/wp-content/uploads/20220405112418/NoSQLDatabases.jpg)
 
 ## Data Lakehouse
