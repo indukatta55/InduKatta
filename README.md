@@ -3,7 +3,7 @@
 ## NoSQL Databases
 "NoSQL" is a term for databases that don't follow the usual SQL (relational) model. It was first named by Carlo Strozzi in 1998. 
 In 2009, Johan Oskarsson gave it a broader meaning during discussions about open source databases, including various systems beyond the usual relational databases.
-#### NoSQL Database Models
+### NoSQL Database Models
 NoSQL databases are often described as highly performant, efficient, and scalable. Some popular open-source key-value data stores are:
 - **Key-value Database:** It is an unconventional approach storing data without relational ties, using a simple key-value method.
 - **Document Database:** Storing data as documents, akin to key-value databases but with structured documents containing many key-value pairs, resembling JSON or XML.
